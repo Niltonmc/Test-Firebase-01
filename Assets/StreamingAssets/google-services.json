@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1072325859623",
+    "project_id": "practica3mobiledev",
+	"firebase_url": "https://practica3mobiledev-default-rtdb.firebaseio.com/",
+    "storage_bucket": "practica3mobiledev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072325859623:android:6df614d073496a63d07102",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Practica3DevMob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072325859623-pcv8lt7vgn7913adok4l17tirgh40r8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFwcFHCtsEnXtghFbOJYX6QMXBMbj1dBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072325859623-pcv8lt7vgn7913adok4l17tirgh40r8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

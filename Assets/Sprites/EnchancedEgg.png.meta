@@ -1,0 +1,3970 @@
+fileFormatVersion: 2
+guid: 7b6c2f2fa3b7846428cdcbac4e0c143d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1559706089741229351
+    second: EnchancedEgg_0
+  - first:
+      213: 39948877091526494
+    second: EnchancedEgg_1
+  - first:
+      213: -8316969178745712162
+    second: EnchancedEgg_2
+  - first:
+      213: 6318942567954052098
+    second: EnchancedEgg_3
+  - first:
+      213: 3900463747820840269
+    second: EnchancedEgg_4
+  - first:
+      213: -8234361194005223287
+    second: EnchancedEgg_5
+  - first:
+      213: -608614037010693229
+    second: EnchancedEgg_6
+  - first:
+      213: 5236296311610371515
+    second: EnchancedEgg_7
+  - first:
+      213: 8414226809819279609
+    second: EnchancedEgg_8
+  - first:
+      213: 7347024498201511180
+    second: EnchancedEgg_9
+  - first:
+      213: 1949107012131333074
+    second: EnchancedEgg_10
+  - first:
+      213: 3511718482421614490
+    second: EnchancedEgg_11
+  - first:
+      213: -5835131601784579504
+    second: EnchancedEgg_12
+  - first:
+      213: -7266253811641753507
+    second: EnchancedEgg_13
+  - first:
+      213: -5479575607546487531
+    second: EnchancedEgg_14
+  - first:
+      213: -2817850920980295741
+    second: EnchancedEgg_15
+  - first:
+      213: -3206907664423337379
+    second: EnchancedEgg_16
+  - first:
+      213: -3584759591621629270
+    second: EnchancedEgg_17
+  - first:
+      213: -3808112358170565316
+    second: EnchancedEgg_18
+  - first:
+      213: 5066232396056659916
+    second: EnchancedEgg_19
+  - first:
+      213: -372808973628508985
+    second: EnchancedEgg_20
+  - first:
+      213: 6958328432926998535
+    second: EnchancedEgg_21
+  - first:
+      213: 7093646888628786574
+    second: EnchancedEgg_22
+  - first:
+      213: -7930709754789451626
+    second: EnchancedEgg_23
+  - first:
+      213: -7338165251150444884
+    second: EnchancedEgg_24
+  - first:
+      213: -6654237715463719812
+    second: EnchancedEgg_25
+  - first:
+      213: 2622449318174492970
+    second: EnchancedEgg_26
+  - first:
+      213: -8366539716655122622
+    second: EnchancedEgg_27
+  - first:
+      213: 2946765754004055452
+    second: EnchancedEgg_28
+  - first:
+      213: -6107641430787589004
+    second: EnchancedEgg_29
+  - first:
+      213: 8571844340729263410
+    second: EnchancedEgg_30
+  - first:
+      213: 1029784938682584872
+    second: EnchancedEgg_31
+  - first:
+      213: -5706297506702585062
+    second: EnchancedEgg_32
+  - first:
+      213: 7773840724203900237
+    second: EnchancedEgg_33
+  - first:
+      213: 3996728541426929018
+    second: EnchancedEgg_34
+  - first:
+      213: -7433961376876413066
+    second: EnchancedEgg_35
+  - first:
+      213: 8792079208178243692
+    second: EnchancedEgg_36
+  - first:
+      213: -6806247438864375116
+    second: EnchancedEgg_37
+  - first:
+      213: 8987721762872018766
+    second: EnchancedEgg_38
+  - first:
+      213: 1527311632742884504
+    second: EnchancedEgg_39
+  - first:
+      213: 4178768257860187794
+    second: EnchancedEgg_40
+  - first:
+      213: -7615216326666824466
+    second: EnchancedEgg_41
+  - first:
+      213: 654113198088335839
+    second: EnchancedEgg_42
+  - first:
+      213: -3015668207098717366
+    second: EnchancedEgg_43
+  - first:
+      213: 6703328973021475734
+    second: EnchancedEgg_44
+  - first:
+      213: 4001598580626000235
+    second: EnchancedEgg_45
+  - first:
+      213: 4582509233718008502
+    second: EnchancedEgg_46
+  - first:
+      213: 1378853059225786073
+    second: EnchancedEgg_47
+  - first:
+      213: 6105434484371687392
+    second: EnchancedEgg_48
+  - first:
+      213: -373283073417925918
+    second: EnchancedEgg_49
+  - first:
+      213: -448302434003852265
+    second: EnchancedEgg_50
+  - first:
+      213: -4129844120224237225
+    second: EnchancedEgg_51
+  - first:
+      213: -5531722124578511086
+    second: EnchancedEgg_52
+  - first:
+      213: 2775666373596922268
+    second: EnchancedEgg_53
+  - first:
+      213: 7656517350352814356
+    second: EnchancedEgg_54
+  - first:
+      213: -387218947437215573
+    second: EnchancedEgg_55
+  - first:
+      213: -3943543364883147096
+    second: EnchancedEgg_56
+  - first:
+      213: -277411170093253251
+    second: EnchancedEgg_57
+  - first:
+      213: -7559317703146330577
+    second: EnchancedEgg_58
+  - first:
+      213: -1409959187433352346
+    second: EnchancedEgg_59
+  - first:
+      213: -4612767337475243595
+    second: EnchancedEgg_60
+  - first:
+      213: 6904377795168693396
+    second: EnchancedEgg_61
+  - first:
+      213: -8425487231559449186
+    second: EnchancedEgg_62
+  - first:
+      213: 9151534724609386912
+    second: EnchancedEgg_63
+  - first:
+      213: -8812909232196247909
+    second: EnchancedEgg_64
+  - first:
+      213: -6535083041288630799
+    second: EnchancedEgg_65
+  - first:
+      213: -5428523661107594040
+    second: EnchancedEgg_66
+  - first:
+      213: 8362730992523722723
+    second: EnchancedEgg_67
+  - first:
+      213: -1847810498732883151
+    second: EnchancedEgg_68
+  - first:
+      213: 3642009770476978318
+    second: EnchancedEgg_69
+  - first:
+      213: 2056481265548599276
+    second: EnchancedEgg_70
+  - first:
+      213: -622771590942988476
+    second: EnchancedEgg_71
+  - first:
+      213: -3517072579358821085
+    second: EnchancedEgg_72
+  - first:
+      213: 5825879391573366961
+    second: EnchancedEgg_73
+  - first:
+      213: 3455246837412180047
+    second: EnchancedEgg_74
+  - first:
+      213: -3217006172821217759
+    second: EnchancedEgg_75
+  - first:
+      213: -8926567994704683348
+    second: EnchancedEgg_76
+  - first:
+      213: -8087714980052661313
+    second: EnchancedEgg_77
+  - first:
+      213: -2708568482470564066
+    second: EnchancedEgg_78
+  - first:
+      213: -7180408441518494064
+    second: EnchancedEgg_79
+  - first:
+      213: 3776445796568540389
+    second: EnchancedEgg_80
+  - first:
+      213: 5237641700673510981
+    second: EnchancedEgg_81
+  - first:
+      213: 7249434003104836545
+    second: EnchancedEgg_82
+  - first:
+      213: 6870562567699156774
+    second: EnchancedEgg_83
+  - first:
+      213: -2689355805638545542
+    second: EnchancedEgg_84
+  - first:
+      213: -6244090977820615177
+    second: EnchancedEgg_85
+  - first:
+      213: 1473352851071108615
+    second: EnchancedEgg_86
+  - first:
+      213: -8323926071072106873
+    second: EnchancedEgg_87
+  - first:
+      213: -8509433998516884237
+    second: EnchancedEgg_88
+  - first:
+      213: -4309649281066859227
+    second: EnchancedEgg_89
+  - first:
+      213: -2025709687466954820
+    second: EnchancedEgg_90
+  - first:
+      213: 8944344922208968196
+    second: EnchancedEgg_91
+  - first:
+      213: -721818319723663639
+    second: EnchancedEgg_92
+  - first:
+      213: -3397825891395013633
+    second: EnchancedEgg_93
+  - first:
+      213: -8230982529531296738
+    second: EnchancedEgg_94
+  - first:
+      213: 2487940499738313419
+    second: EnchancedEgg_95
+  - first:
+      213: 2714588515162174244
+    second: EnchancedEgg_96
+  - first:
+      213: -1147673354389777206
+    second: EnchancedEgg_97
+  - first:
+      213: -7008106717751282029
+    second: EnchancedEgg_98
+  - first:
+      213: 3509805542838273554
+    second: EnchancedEgg_99
+  - first:
+      213: -7976228900024295489
+    second: EnchancedEgg_100
+  - first:
+      213: -2195614692113008408
+    second: EnchancedEgg_101
+  - first:
+      213: -2070259298581287210
+    second: EnchancedEgg_102
+  - first:
+      213: 8844691507144498363
+    second: EnchancedEgg_103
+  - first:
+      213: 640853705934934615
+    second: EnchancedEgg_104
+  - first:
+      213: 5814901498175369812
+    second: EnchancedEgg_105
+  - first:
+      213: -6559321269104020389
+    second: EnchancedEgg_106
+  - first:
+      213: -1786622521521098639
+    second: EnchancedEgg_107
+  - first:
+      213: -516904177312043074
+    second: EnchancedEgg_108
+  - first:
+      213: -8580213760648614867
+    second: EnchancedEgg_109
+  - first:
+      213: 7562622827051780698
+    second: EnchancedEgg_110
+  - first:
+      213: 5244566038014182577
+    second: EnchancedEgg_111
+  - first:
+      213: -8425966077679189593
+    second: EnchancedEgg_112
+  - first:
+      213: 2095885638079233547
+    second: EnchancedEgg_113
+  - first:
+      213: 7930433252106597224
+    second: EnchancedEgg_114
+  - first:
+      213: -7610532990818058166
+    second: EnchancedEgg_115
+  - first:
+      213: -3320617001242594212
+    second: EnchancedEgg_116
+  - first:
+      213: 4944472090660581465
+    second: EnchancedEgg_117
+  - first:
+      213: 7108181131615327392
+    second: EnchancedEgg_118
+  - first:
+      213: -1527468211690397373
+    second: EnchancedEgg_119
+  - first:
+      213: -1110059529244714311
+    second: EnchancedEgg_120
+  - first:
+      213: -8046892998612726457
+    second: EnchancedEgg_121
+  - first:
+      213: -2652767969188807703
+    second: EnchancedEgg_122
+  - first:
+      213: 2128575623230372106
+    second: EnchancedEgg_123
+  - first:
+      213: 7796902667979103296
+    second: EnchancedEgg_124
+  - first:
+      213: 1013686716057537034
+    second: EnchancedEgg_125
+  - first:
+      213: 7429789669978969178
+    second: EnchancedEgg_126
+  - first:
+      213: 7505769190693683620
+    second: EnchancedEgg_127
+  - first:
+      213: -3172988423198458590
+    second: EnchancedEgg_128
+  - first:
+      213: 4077649413462337698
+    second: EnchancedEgg_129
+  - first:
+      213: 4841727515280574847
+    second: EnchancedEgg_130
+  - first:
+      213: -549189249514904861
+    second: EnchancedEgg_131
+  - first:
+      213: -7718019613692338925
+    second: EnchancedEgg_132
+  - first:
+      213: 6092192726091267362
+    second: EnchancedEgg_133
+  - first:
+      213: -5711684634483969145
+    second: EnchancedEgg_134
+  - first:
+      213: -5844459719566061867
+    second: EnchancedEgg_135
+  - first:
+      213: 2656649712262527985
+    second: EnchancedEgg_136
+  - first:
+      213: 5101199755988357594
+    second: EnchancedEgg_137
+  - first:
+      213: 7519300887011547126
+    second: EnchancedEgg_138
+  - first:
+      213: -2814360819310093831
+    second: EnchancedEgg_139
+  - first:
+      213: 187249093383357641
+    second: EnchancedEgg_140
+  - first:
+      213: -702233323338878888
+    second: EnchancedEgg_141
+  - first:
+      213: -8463989117016050351
+    second: EnchancedEgg_142
+  - first:
+      213: 4510085971495413637
+    second: EnchancedEgg_143
+  - first:
+      213: -1461967491091089520
+    second: EnchancedEgg_144
+  - first:
+      213: -6293703895107712840
+    second: EnchancedEgg_145
+  - first:
+      213: -5752635750690666869
+    second: EnchancedEgg_146
+  - first:
+      213: 1181968107199001892
+    second: EnchancedEgg_147
+  - first:
+      213: -6830291116657703655
+    second: EnchancedEgg_148
+  - first:
+      213: 7358048133168334012
+    second: EnchancedEgg_149
+  - first:
+      213: 4535483106061386482
+    second: EnchancedEgg_150
+  - first:
+      213: 8255156176618018286
+    second: EnchancedEgg_151
+  - first:
+      213: -4537062546635406486
+    second: EnchancedEgg_152
+  - first:
+      213: -5193833843007099867
+    second: EnchancedEgg_153
+  - first:
+      213: 186798582599576168
+    second: EnchancedEgg_154
+  - first:
+      213: -6823837287956204747
+    second: EnchancedEgg_155
+  - first:
+      213: 544426310126484282
+    second: EnchancedEgg_156
+  - first:
+      213: -5977670394452504779
+    second: EnchancedEgg_157
+  - first:
+      213: 1734408784221764665
+    second: EnchancedEgg_158
+  - first:
+      213: -7261110894403487421
+    second: EnchancedEgg_159
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnchancedEgg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2040
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2e5f6339fca5ae0800000000000000
+      internalID: -1559706089741229351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2040
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e575734ca4ded8000800000000000000
+      internalID: 39948877091526494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2040
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed15dfcd890349c80800000000000000
+      internalID: -8316969178745712162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2040
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204fefe49c461b750800000000000000
+      internalID: 6318942567954052098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2040
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d456624fc1b312630800000000000000
+      internalID: 3900463747820840269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2040
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988ae0f1f1ca9bd80800000000000000
+      internalID: -8234361194005223287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2040
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39349a602c4cd87f0800000000000000
+      internalID: -608614037010693229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2040
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd693890cf0ba840800000000000000
+      internalID: 5236296311610371515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2040
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0b8daf3b655c470800000000000000
+      internalID: 8414226809819279609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2040
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05c46bdadfd5f560800000000000000
+      internalID: 7347024498201511180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1904
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3af4f208e9c0b10800000000000000
+      internalID: 1949107012131333074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1904
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a970ae79a512cb030800000000000000
+      internalID: 3511718482421614490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1904
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a59f959b2750fa0800000000000000
+      internalID: -5835131601784579504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1904
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50e34518a4192b90800000000000000
+      internalID: -7266253811641753507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1904
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ddb485403a4f3b0800000000000000
+      internalID: -5479575607546487531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_15
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1904
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf46f8548bf4e8d0800000000000000
+      internalID: -2817850920980295741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1904
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52c19a5876ce73d0800000000000000
+      internalID: -3206907664423337379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_17
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1904
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaae730f420604ec0800000000000000
+      internalID: -3584759591621629270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1904
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35e77a8cfdd62bc0800000000000000
+      internalID: -3808112358170565316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_19
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1904
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7888ca58fde4640800000000000000
+      internalID: 5066232396056659916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1768
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c47bc5b63483daf0800000000000000
+      internalID: -372808973628508985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1768
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7004d1bc7d2f09060800000000000000
+      internalID: 6958328432926998535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1768
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8516cee242b17260800000000000000
+      internalID: 7093646888628786574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1768
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698ac092f7570f190800000000000000
+      internalID: -7930709754789451626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1768
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca600165599992a90800000000000000
+      internalID: -7338165251150444884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1768
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7437cead0667a3a0800000000000000
+      internalID: -6654237715463719812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_26
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1768
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a298143b2cfc46420800000000000000
+      internalID: 2622449318174492970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_27
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1768
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247f29d947414eb80800000000000000
+      internalID: -8366539716655122622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1768
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95a2b337d305e820800000000000000
+      internalID: 2946765754004055452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_29
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1768
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c72767a7c4d3ba0800000000000000
+      internalID: -6107641430787589004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1632
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2353c17230f45f670800000000000000
+      internalID: 8571844340729263410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1632
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f093912f78a4e00800000000000000
+      internalID: 1029784938682584872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1632
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a139b42a6a82fc0b0800000000000000
+      internalID: -5706297506702585062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1632
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d83aa73fa32eb60800000000000000
+      internalID: 7773840724203900237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1632
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dca6fce6b377730800000000000000
+      internalID: 3996728541426929018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_35
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1632
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fbe49b38345d890800000000000000
+      internalID: -7433961376876413066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1632
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68df88157db30a70800000000000000
+      internalID: 8792079208178243692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_37
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1632
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2a311f30a5b81a0800000000000000
+      internalID: -6806247438864375116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_38
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1632
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47c808035dcabc70800000000000000
+      internalID: 8987721762872018766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_39
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1632
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89426f286d9123510800000000000000
+      internalID: 1527311632742884504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1496
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2963f682797fdf930800000000000000
+      internalID: 4178768257860187794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1496
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4d4491911515690800000000000000
+      internalID: -7615216326666824466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1496
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd133feec70e31900800000000000000
+      internalID: 654113198088335839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1496
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b117b4eb13626d0800000000000000
+      internalID: -3015668207098717366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1496
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69377896f22070d50800000000000000
+      internalID: 6703328973021475734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_45
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1496
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b698beb25b8888730800000000000000
+      internalID: 4001598580626000235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1496
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba95bf6ed7589f30800000000000000
+      internalID: 4582509233718008502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_47
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1496
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d61d984d8ba22310800000000000000
+      internalID: 1378853059225786073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_48
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1496
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e70568c05cdab450800000000000000
+      internalID: 6105434484371687392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_49
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1496
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea2240c505d1daf0800000000000000
+      internalID: -373283073417925918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1360
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714e14dbf4f47c9f0800000000000000
+      internalID: -448302434003852265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1360
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7597c4c47a8dfa6c0800000000000000
+      internalID: -4129844120224237225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1360
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217245839006b33b0800000000000000
+      internalID: -5531722124578511086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_53
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1360
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91cd355cd5258620800000000000000
+      internalID: 2775666373596922268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_54
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1360
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4110564d6f9614a60800000000000000
+      internalID: 7656517350352814356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_55
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1360
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba044bb3b6250aaf0800000000000000
+      internalID: -387218947437215573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_56
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1360
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a69ac31438b549c0800000000000000
+      internalID: -3943543364883147096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_57
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1360
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dbdd5b200762cf0800000000000000
+      internalID: -277411170093253251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_58
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1360
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2624a79998e71790800000000000000
+      internalID: -7559317703146330577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_59
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1360
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6639c3dd691de6ce0800000000000000
+      internalID: -1409959187433352346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1224
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1834acb882cffb0800000000000000
+      internalID: -4612767337475243595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1224
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cef14160741df50800000000000000
+      internalID: 6904377795168693396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1224
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e954f47c008a21b80800000000000000
+      internalID: -8425487231559449186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1224
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9aef95858c00f70800000000000000
+      internalID: 9151534724609386912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1224
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e9e210fb142b580800000000000000
+      internalID: -8812909232196247909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_65
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1224
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdcf4a2998be45a0800000000000000
+      internalID: -6535083041288630799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_66
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1224
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccf0e4ed720aa4b0800000000000000
+      internalID: -5428523661107594040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_67
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1224
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efb681b7836e0470800000000000000
+      internalID: 8362730992523722723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_68
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1224
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1330aca34224b56e0800000000000000
+      internalID: -1847810498732883151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_69
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1224
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8048cd07940b8230800000000000000
+      internalID: 3642009770476978318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef1548b0d61a8c10800000000000000
+      internalID: 2056481265548599276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44763a1a9887b57f0800000000000000
+      internalID: -622771590942988476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325fc029f19d03fc0800000000000000
+      internalID: -3517072579358821085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_73
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8dff6907ea9d050800000000000000
+      internalID: 5825879391573366961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_74
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1088
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40be3321b083ff20800000000000000
+      internalID: 3455246837412180047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_75
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1088
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e90c42ee5ea53d0800000000000000
+      internalID: -3217006172821217759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_76
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1088
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae914c24b57e1480800000000000000
+      internalID: -8926567994704683348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_77
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1088
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb0b51831aa2cf80800000000000000
+      internalID: -8087714980052661313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_78
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1088
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fe588d05b396ad0800000000000000
+      internalID: -2708568482470564066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_79
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1088
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ee21dd0901a5c90800000000000000
+      internalID: -7180408441518494064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 952
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e42cf98171a86430800000000000000
+      internalID: 3776445796568540389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 952
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54eda656067dfa840800000000000000
+      internalID: 5237641700673510981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 952
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cba3b111d92b9460800000000000000
+      internalID: 7249434003104836545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_83
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 952
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fcdc6e044295f50800000000000000
+      internalID: 6870562567699156774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_84
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 952
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fa742c42d7daad0800000000000000
+      internalID: -2689355805638545542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_85
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 952
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdd7c996588859a0800000000000000
+      internalID: -6244090977820615177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_86
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 952
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70607e4ac96627410800000000000000
+      internalID: 1473352851071108615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_87
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 952
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786522527597b7c80800000000000000
+      internalID: -8323926071072106873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_88
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 952
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fce4cefcda68e980800000000000000
+      internalID: -8509433998516884237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_89
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 952
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5250e77ffcc0134c0800000000000000
+      internalID: -4309649281066859227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfe67c95cb33e3e0800000000000000
+      internalID: -2025709687466954820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 816
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e95dc4152b02c70800000000000000
+      internalID: 8944344922208968196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 816
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee608400169bf5f0800000000000000
+      internalID: -721818319723663639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 816
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff376ceaa5f78d0d0800000000000000
+      internalID: -3397825891395013633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_94
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 816
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1447debffca5cd80800000000000000
+      internalID: -8230982529531296738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_95
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 816
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2c53de3b0f68220800000000000000
+      internalID: 2487940499738313419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_96
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 816
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423b89d3fd72ca520800000000000000
+      internalID: 2714588515162174244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_97
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 816
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac49a613a25a210f0800000000000000
+      internalID: -1147673354389777206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_98
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 816
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396f76c12143ebe90800000000000000
+      internalID: -7008106717751282029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_99
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 816
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2168293ab8555b030800000000000000
+      internalID: 3509805542838273554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfd8d6431ebe4190800000000000000
+      internalID: -7976228900024295489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_101
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 680
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8b9f4021c9781e0800000000000000
+      internalID: -2195614692113008408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_102
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 680
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6deec1bf226f443e0800000000000000
+      internalID: -2070259298581287210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_103
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 680
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc13478018aeba70800000000000000
+      internalID: 8844691507144498363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_104
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 680
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7529e37dc05c4e800800000000000000
+      internalID: 640853705934934615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_105
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 680
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45231aa9a1ea2b050800000000000000
+      internalID: 5814901498175369812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_106
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 680
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54f36bfe0c98f4a0800000000000000
+      internalID: -6559321269104020389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_107
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 680
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170b5095844a437e0800000000000000
+      internalID: -1786622521521098639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_108
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 680
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf6660b36693d8f0800000000000000
+      internalID: -516904177312043074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_109
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 680
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cee9b6b05fce880800000000000000
+      internalID: -8580213760648614867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a8ea88465d3f860800000000000000
+      internalID: 7562622827051780698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_111
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4c9e0560178c840800000000000000
+      internalID: 5244566038014182577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 544
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1c07abe74f01b80800000000000000
+      internalID: -8425966077679189593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_113
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 544
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e3e8322e4161d10800000000000000
+      internalID: 2095885638079233547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_114
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 544
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86372ca860f8e0e60800000000000000
+      internalID: 7930433252106597224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_115
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 544
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4006e23194f16690800000000000000
+      internalID: -7610532990818058166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_116
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 544
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54ffc54e6ccae1d0800000000000000
+      internalID: -3320617001242594212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_117
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 544
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95038a56b2b4e9440800000000000000
+      internalID: 4944472090660581465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_118
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 544
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4d015141555a260800000000000000
+      internalID: 7108181131615327392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_119
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 544
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3412e7c11c75dcae0800000000000000
+      internalID: -1527468211690397373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bad4df4db64890f0800000000000000
+      internalID: -1110059529244714311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_121
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 408
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d4c18b371b35090800000000000000
+      internalID: -8046892998612726457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_122
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 408
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb77f446997f2bd0800000000000000
+      internalID: -2652767969188807703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_123
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 408
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09b33c60483a8d10800000000000000
+      internalID: 2128575623230372106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_124
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 408
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c9031baa9243c60800000000000000
+      internalID: 7796902667979103296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_125
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 408
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a442092b6511e00800000000000000
+      internalID: 1013686716057537034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_126
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 408
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5496f2175aeb1760800000000000000
+      internalID: 7429789669978969178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_127
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 408
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a14e59cf49d92860800000000000000
+      internalID: 7505769190693683620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_128
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 408
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d34de17d747f3d0800000000000000
+      internalID: -3172988423198458590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_129
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 408
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8a0088988b69830800000000000000
+      internalID: 4077649413462337698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f798887c585413340800000000000000
+      internalID: 4841727515280574847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_131
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 272
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2633c8943e068f0800000000000000
+      internalID: -549189249514904861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_132
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 272
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dde5c9d0614e490800000000000000
+      internalID: -7718019613692338925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_133
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 272
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d73eda101db8450800000000000000
+      internalID: 6092192726091267362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_134
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 272
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783b68436150cb0b0800000000000000
+      internalID: -5711684634483969145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_135
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 272
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de8f2fa9de44eea0800000000000000
+      internalID: -5844459719566061867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_136
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 272
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb3d0876d05ed420800000000000000
+      internalID: 2656649712262527985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_137
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 272
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1def7962a1bc640800000000000000
+      internalID: 5101199755988357594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_138
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 272
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f75a99515ce95860800000000000000
+      internalID: 7519300887011547126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_139
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 272
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f99e37feb161f8d0800000000000000
+      internalID: -2814360819310093831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c401afee0e399200800000000000000
+      internalID: 187249093383357641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_141
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 136
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850b1f4538a2146f0800000000000000
+      internalID: -702233323338878888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_142
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 136
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1557c710ebed98a80800000000000000
+      internalID: -8463989117016050351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_143
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 136
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587e47dab4b079e30800000000000000
+      internalID: 4510085971495413637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_144
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 136
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097b85c005c06bbe0800000000000000
+      internalID: -1461967491091089520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_145
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 136
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8cc9227a548a8a0800000000000000
+      internalID: -6293703895107712840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_146
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 136
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86ced573488a20b0800000000000000
+      internalID: -5752635750690666869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_147
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 136
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425ff6d2bb1376010800000000000000
+      internalID: 1181968107199001892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_148
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 136
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9158c17fa6ee531a0800000000000000
+      internalID: -6830291116657703655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_149
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 136
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb489b1eac90d1660800000000000000
+      internalID: 7358048133168334012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2039ddad541fe30800000000000000
+      internalID: 4535483106061386482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_151
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee550b01ec4309270800000000000000
+      internalID: 8255156176618018286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a634118f6ad1901c0800000000000000
+      internalID: -4537062546635406486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_153
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ce82d43abcbe7b0800000000000000
+      internalID: -5193833843007099867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ae4683254a79200800000000000000
+      internalID: 186798582599576168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_155
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5333e4e042cdc41a0800000000000000
+      internalID: -6823837287956204747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_156
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b377538d03e8700800000000000000
+      internalID: 544426310126484282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_157
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f0a42827c0b0da0800000000000000
+      internalID: -5977670394452504779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_158
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cfad6999bd11810800000000000000
+      internalID: 1734408784221764665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnchancedEgg_159
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3497c50dc1a5b3b90800000000000000
+      internalID: -7261110894403487421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
